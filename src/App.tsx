@@ -34,8 +34,7 @@ const {state, dispatch} = useActivity()
             <section className="bg-lime-500 py-20 px-5">
                 <div className="max-w-4xl mx-auto">
                     <Form 
-                        dispatch={dispatch}
-                        state={state}
+                       
                     />
                 </div>
             </section>
